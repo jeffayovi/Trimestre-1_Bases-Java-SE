@@ -26,10 +26,10 @@ Adquirir una comprensión sólida de la lógica de programación y los fundament
 
 ## 🛠️ Proyecto Sugerido
 
-**Calculadora Básica (Consola)**
-**Conversor de Divisas (Consola)**
-**Gestión de Inventario (Consola con Arrays)**
-**Tres en Raya (Consola)**
+- **Calculadora Básica (Consola)**
+- **Conversor de Divisas (Consola)**
+- **Gestión de Inventario (Consola con Arrays)**
+- **Tres en Raya (Consola)**
 
 ---
 
