@@ -1,6 +1,6 @@
 
 package ejemplo;
-
+/*Este es un Programa simple de Java */
 
 public class Ejemplo {
 
