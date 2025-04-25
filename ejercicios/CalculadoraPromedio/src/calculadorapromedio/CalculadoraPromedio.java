@@ -33,7 +33,7 @@ public class CalculadoraPromedio {
             
         }
         
-        double promedio =(nota1 + nota2 + nota3 + nota4) / 4.0;
+        double promedio = (nota1 + nota2 + nota3 + nota4) / 4.0;
         
         System.out.println("El promedio de cuatro notas es "+promedio);
         
