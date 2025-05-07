@@ -20,7 +20,7 @@ Adquirir una comprensión sólida de la lógica de programación y los fundament
 - Estructuras de datos básicas
   - Arrays unidimensionales y bidimensionales (vectores y matrices)
 - Introducción al uso de IDEs
-  - Recomendado: IntelliJ IDEA
+  - Recomendado: Apache NetBeans 
 
 ---
 
